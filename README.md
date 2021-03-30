@@ -1,6 +1,9 @@
 # RaPiSeedWatch
 A program for the Raspberry Pi to monitor seed growth. It uses a Sense HAT and a camera module.
 
+## Demo
+https://youtu.be/RG9URaJmK0I
+
 ## What you'll need
 * A Raspberry Pi (Keep in mind if you're using a zero you will need an extra cable for the camera module)
 * A Sense HAT
